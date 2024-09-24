@@ -1,1 +1,5 @@
-# KiranK-101.github.io
+KiranK-101.github.io
+1. Kiranpreet Kaur - kiranhanda2007@gmail.com
+2. I have a new GitHub account since I have never used it before. I have learned it is a central repository for storing and sharing code related to my academic and personal projects.
+3. The repository I created is for "Lesson 5: GitHub Lab." It is currently empty, but it will contain all the necessary files in future projects, including source code, documentation, and any supporting materials.
+4. I followed the assignment steps closely to clone the repository onto my local machine. First, I navigated to the repository page on GitHub and clicked on the "Code" button. I then copied the repository URL. I opened the terminal on my local machine and navigated to the folder where I wanted to store the repository. Then, I clicked "clone repository," and that was it.
